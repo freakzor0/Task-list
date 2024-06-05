@@ -1,4 +1,7 @@
-.htm [SPOILER]
+.htm 
+
+[SPOILER]
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -21,8 +24,11 @@
 </body>
 <script src="../app.js"></script>
 </html>
+
 [/SPOILER]
+
 [SPOILER]
+
 :root {
     --green: #00FF00;
     --white: #FFFFFF;
@@ -64,8 +70,11 @@ li {
     color: var(--btnFontColor);
     background-color: var(--btnBg);
   }
+
 [/SPOILER]
+
 [SPOILER]
+
 'use strict';
 
 const switcher = document.querySelector('.btn');
@@ -83,5 +92,6 @@ switcher.addEventListener('click', function() {
 
     console.log('current class name: ' + className);
 });
+
 [/SPOILER]
 
