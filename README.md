@@ -1,4 +1,4 @@
-.htm [SPOILER=htm]
+.htm [SPOILER]
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -22,8 +22,7 @@
 <script src="../app.js"></script>
 </html>
 [/SPOILER]
-[SPOILER=css]
-,
+[SPOILER]
 :root {
     --green: #00FF00;
     --white: #FFFFFF;
@@ -66,7 +65,7 @@ li {
     background-color: var(--btnBg);
   }
 [/SPOILER]
-[SPOILER=jss]
+[SPOILER]
 'use strict';
 
 const switcher = document.querySelector('.btn');
