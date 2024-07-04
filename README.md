@@ -1,1 +1,1 @@
-<!DOCTYPE html>
+Enable switching the theme =)
