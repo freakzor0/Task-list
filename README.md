@@ -1,6 +1,6 @@
 .htm 
 
-[SPOILER]
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -23,9 +23,8 @@
 </body>
 <script src="../app.js"></script>
 </html>
-[/SPOILER]
 
-[SPOILER]
+-/-/-/-/-/-/=/=/=/=/=/=/=
 
 :root {
     --green: #00FF00;
@@ -69,9 +68,8 @@ li {
     background-color: var(--btnBg);
   }
 
-[/SPOILER]
+-/-/-/-/-/-/=/=/=/=/=/=/=
 
-[SPOILER]
 
 'use strict';
 
@@ -91,5 +89,5 @@ switcher.addEventListener('click', function() {
     console.log('current class name: ' + className);
 });
 
-[/SPOILER]
+
 
