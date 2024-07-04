@@ -1,7 +1,6 @@
 .htm 
 
 [SPOILER]
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -24,7 +23,6 @@
 </body>
 <script src="../app.js"></script>
 </html>
-
 [/SPOILER]
 
 [SPOILER]
